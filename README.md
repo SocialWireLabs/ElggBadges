@@ -1,5 +1,5 @@
 # badge
-PLUGIN BADGE for Elgg 1.10 - 1.12
+Elgg plugin for managing badges in social learning environments (Elgg 1.12)
 -------------
 ## Autores: D. Ferrero-Castro, M.E. Sousa-Vieira, J.C. López-Ardao
 ### Dependences: 
